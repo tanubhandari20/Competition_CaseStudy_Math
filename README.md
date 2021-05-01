@@ -52,6 +52,8 @@ Author : Tanu Bhandari
  31 G1 - first period grade (numeric: from 0 to 20)
  31 G2 - second period grade (numeric: from 0 to 20)
  32 G3 - final grade (numeric: from 0 to 20, output target)
+ 
+ 
               
 
 
